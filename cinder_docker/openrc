@@ -1,0 +1,8 @@
+
+export OS_TENANT_NAME=admin
+export OS_USERNAME=admin
+export OS_PASSWORD=ADMIN_PASS
+export OS_AUTH_URL=http://96.126.127.93:35357/v2.0
+
+export SERVICE_TOKEN=ADMIN
+export SERVICE_ENDPOINT=http://MACHINE_IP:5000/v2.0/
